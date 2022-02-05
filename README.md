@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CoderzBoyz and I'm a beginner
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python

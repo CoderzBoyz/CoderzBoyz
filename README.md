@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CoderzBoyz and I'm a beginner
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python, then i will learn C and C++
